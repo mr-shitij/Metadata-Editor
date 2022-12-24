@@ -1,2 +1,1 @@
-# Metadata-Editor
-Metadata Editor In React
+Metadata Editor
